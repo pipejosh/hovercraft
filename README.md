@@ -35,6 +35,7 @@ Turns out he would regreat this deal because the hovercraft would work flawlessl
 
 [Hovercraft video on Reddit](https://www.reddit.com/r/hovercraft/comments/1qpj7pu/our_very_colorfull_rc_hovercraft/)
 
+# BOM
 
 | KIT Items | Description | Quantity | Unit Price | Total Price | URL |
 |-----------|-------------|----------|------------|-------------|-----|
