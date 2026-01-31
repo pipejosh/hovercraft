@@ -14,8 +14,8 @@ Turns out he would regreat this deal because the hovercraft would work flawlessl
 
 
 ## Hovercraft Images!
-![hovercraft](media/hovercraft.png) 
-![hovercraft](media/hovercraft1.png) 
+<img src="media/hovercraft.png" width="400">
+<img src="media/hovercraft1.png" width="400">
 
 ## Wiring diagram
 ![wiring](media/wiring.png) 
@@ -36,8 +36,7 @@ Turns out he would regreat this deal because the hovercraft would work flawlessl
 <video src="media/hovercraft.mp4" controls ></video>
 <video src="media/hovercraft1.mp4" controls ></video>
 
-[Watch demo video](media/hovercraft.mp4)
-[Watch demo video](media/hovercraft1.mp4)
+[Watch demo video](media/hovercraft2.mp4)
 
 | KIT Items | Description | Quantity | Unit Price | Total Price | URL |
 |-----------|-------------|----------|------------|-------------|-----|
