@@ -15,7 +15,7 @@ Turns out he would regreat this deal because the hovercraft would work flawlessl
 
 ## Hovercraft Images!
 ![hovercraft](media/hovercraft.png) 
-![hovercraft](media/hovercraft2.png) 
+![hovercraft](media/hovercraft1.png) 
 
 ## Wiring diagram
 ![wiring](media/wiring.png) 
@@ -33,10 +33,12 @@ Turns out he would regreat this deal because the hovercraft would work flawlessl
 
 ## Video of the hovercraft
 
-<video src="media/hovercraft.mp4" controls width="600"></video>
-<video src="media/hovercraft1.mp4" controls width="600"></video>
+<video src="media/hovercraft.mp4" controls ></video>
+<video src="media/hovercraft1.mp4" controls ></video>
 
-[Watch demo video](media/video.mp4)
+[Watch demo video](media/hovercraft.mp4)
+[Watch demo video](media/hovercraft1.mp4)
+
 | KIT Items | Description | Quantity | Unit Price | Total Price | URL |
 |-----------|-------------|----------|------------|-------------|-----|
 | Motor + esc | the brand i use is surpass hobby | 1 | 39,05 | 39,05 | https://www.aliexpress.com/item/1005010413102445.html?spm=a2g0o.productlist.main.35.5d322733e9bgpJ&algo_pvid=df574532-fb10-488d-b8f2-22c61ff3d3ad&pdp_ext_f=%7B%22order%22%3A%224%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010413102445%7C_p_origin_prod%3A |
