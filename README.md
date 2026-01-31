@@ -18,7 +18,7 @@ Turns out he would regreat this deal because the hovercraft would work flawlessl
 ![hovercraft](media/hovercraft2.png) 
 
 ## Wiring diagram
-![wiring](Media/wiring.png) 
+![wiring](media/wiring.png) 
 
 ## Render of each section  
 
