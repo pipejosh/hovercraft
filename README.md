@@ -31,12 +31,10 @@ Turns out he would regreat this deal because the hovercraft would work flawlessl
 ### Propeller
 ![prop](media/prop.png) 
 
-## Video of the hovercraft
+# Video of the hovercraft
 
-<video src="media/hovercraft.mp4" controls ></video>
-<video src="media/hovercraft1.mp4" controls ></video>
+[Hovercraft video on Reddit](https://www.reddit.com/r/hovercraft/comments/1qpj7pu/our_very_colorfull_rc_hovercraft/)
 
-[Watch demo video](media/hovercraft2.mp4)
 
 | KIT Items | Description | Quantity | Unit Price | Total Price | URL |
 |-----------|-------------|----------|------------|-------------|-----|
